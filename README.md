@@ -7,7 +7,7 @@ This repo showcases end-to-end GenAI product thinking: problem framing, hypothes
 
 # About Me 👋
 I’m a product manager with 1.5+ years of experience building Gen-AI Products.
-I am building expertise in the GenAI domain by shipping: building full projects that span **user problem → data → model & prompts → UX → metrics → iteration**. This repo is my public notebook of that work — resume-ready and decision-focused.
+I am building expertise in the GenAI domain by shipping: building full projects that span **user problem → data → model & prompts → UX → metrics → iteration**.
 
 ---
 
