@@ -12,4 +12,4 @@ I am building expertise in the GenAI domain by shipping: building full projects 
 ---
 
 # Product I've built 🤖
-- **Text2Query**: A platoform that connects to your databases and helps you query them using plain english language.
+- **Text2Query**: A platform that connects to your databases and helps you query them using plain english language.
