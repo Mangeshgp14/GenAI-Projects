@@ -34,9 +34,9 @@ A product that connects to a database and enables PMs to query it by asking ques
 
 ## Product Flow (MVP) 🔁
 
-- **Intent Capture:** User enters a plain-English question.  
 - **Data Connection:** System establishes a secure connection to the data source.  
-- **Scope Selection:** User selects relevant schemas and tables.  
+- **Scope Selection:** User selects relevant schemas and tables.
+- **Ask Question:** User enters a plain-English question.  
 - **SQL Generation:** LLM synthesizes natural language into a SQL query.  
 - **Validation:** User previews the code for safety and accuracy.  
 - **Execution:** The query is executed against the database.  
